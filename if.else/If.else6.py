@@ -4,3 +4,4 @@ c = 500
 
 if a > b and c > a:
     print("Both condition are true")
+# Output"Both condition are true

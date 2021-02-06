@@ -4,3 +4,5 @@ c = 500
 
 if a > b or c > a:
     print("At least one of the conditions is True")
+
+# Output:At least one of the conditions is True

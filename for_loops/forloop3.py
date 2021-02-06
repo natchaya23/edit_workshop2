@@ -3,3 +3,6 @@ for fruint in fruits:
     if fruint == "banana":
         break
     print(fruint)
+
+    # Output
+    # apple
